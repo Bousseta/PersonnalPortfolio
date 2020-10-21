@@ -2,7 +2,6 @@
   "name": "personalportfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Bousseta.github.io/personalportfolio/",
   "dependencies": {
     "jquery": "^3.5.1",
     "react": "^16.13.1",
