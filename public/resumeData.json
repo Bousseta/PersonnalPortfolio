@@ -1,0 +1,161 @@
+{
+  "main": {
+    "name": "Abdou-errahmane Bousseta",
+    "occupation": "Full Stack Developer",
+    "description": "Full Stack Developer by Day, Learner by Night.",
+    "image": "IG_Abdou.jpg",
+    "bio": "My name is Abdou-errahmane, I'm a Full Stack Developer. Currently I'am a 2020 graduate of the Moroccan National Higher School for Computer Science of Rabat. I hold a degree in Web Engineering and Mobile Computing. I'm very passionate and motivated to fulfill my dream to become a FullStack JS Engineer And Web Developer. In my free time, I love to keep brushing up my skills and to work on open source projects. ",
+    "contactmessage": "I'm currently looking for a full time software engineering/fullstack developer job opportunity. If you have any job positions available or if you have any questions regarding my profile your are more than welcome to message me. Please feel free to email me anytime at, bousseta.tkm@gmail.com.",
+    "email": "bousseta.tkm@gmail.com",
+    "phone": "+212 6 69 81 95 20",
+    "address": {
+      "street": "74 Street Number 5",
+      "city": "Rabat",
+      "state": "MA",
+      "zip": "10200"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1g2UfhX9iiD1Nun295laznqLDF8YJ6xRq/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/abdouerrahmane.bousseta",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/abdou-errahmane-bousseta-b82006164",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "#",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Bousseta",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Moroccan National Higher School for Computer Science of Rabat",
+        "degree": "Web Engineering and Mobile Computing",
+        "graduated": "September 2017- July 2020",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "Preparatory Class Moulay Youssef of RABAT",
+        "degree": "Physics Engineering science ",
+        "graduated": "September 2015- May 2017",
+        "description": "National Ranking : 377e"
+      },
+      {
+        "school": "Le-Ho souissi High School",
+        "degree": "Physics Chemistry",
+        "graduated": "September 2014 - June 2015",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "FY COMPUTING",
+        "title": "MEAN Stack Developer",
+        "years": "Feb 2020 - July 2020",
+        "description": "Design and implementation of a platform entitled “Bloom” for the creation of a unique backbone among customers in SaaS mode, for the control of their data and the creation of new business applications."
+      },
+      {
+        "company": "ARA SYSTEMS & TECHNOLOGIES",
+        "title": "Full Stack Developer",
+        "years": "July 2019 - Sept 2019",
+        "description": "Design and implementation of a digitalization platform for Restaurants & Hotels"
+      },
+      {
+        "company": "DGAPR",
+        "title": "Full Stack Developer",
+        "years": "July 2018 - Sept 2018",
+        "description": "Design and implementation of a platform for managing exit requests from the national territory."
+      }
+    ],
+    
+    "skills": [
+      {
+        "name": "Angular 2+",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "50%"
+      },
+      {
+        "name": "ExpressJs",
+        "level": "60%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "70%"
+      },
+      {
+        "name": "JEE",
+        "level": "70%"
+      },
+      {
+        "name": "Angular 2+",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "SonarQube",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Developer's Portfolio",
+        "category": "Portfolio built with ReactJS",
+        "image": "home.png",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "Task App",
+        "category": "Task App built with MEAN (MongoDB, ExpressJS, Angular, NodeJS)",
+        "image": "task.png",
+        "url": "https://github.com/Bousseta/TaskApp"
+      },
+      {
+        "title": "ARA Click with Angular",
+        "category": "ARA Click built with Angular (Angular, NodeJS, Firebase)",
+        "image": "ara.png",
+        "url": "https://github.com/Bousseta/ARA-CLICK"
+      },
+      {
+        "title": "Bloom Solution",
+        "category": "One solution Plateform built with MEAN (MongoDB, ExpressJS, Angular, NodeJS)",
+        "image": "bloom.png",
+        "url": "https://www.irevolution.com/"
+      }
+    ]
+  }
+  
+  
+}
